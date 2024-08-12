@@ -1,0 +1,25 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "My first book as a dataperson"
+  author: "Lilli van Wielink"
+  date: last-modified
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - summary.qmd
+    - extrachapter.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: minty
+  pdf:
+    documentclass: scrreprt
+
+
+

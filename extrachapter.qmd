@@ -1,0 +1,7 @@
+# The extra chapter
+
+This is the best book ever created from markdown and executable code. 
+
+Please _watch_ this *video* for **inspiration**: 
+
+{{< video https://youtu.be/fcIJ13OYSmQ?feature=shared >}}
