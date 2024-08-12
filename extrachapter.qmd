@@ -1,4 +1,4 @@
-# The extra chapter
+# The final chapter
 
 This is the best book ever created from markdown and executable code. 
 
